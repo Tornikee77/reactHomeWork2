@@ -1,4 +1,4 @@
-function Product(profession, skills, tools) {
+function Product({ profession, skills, tools }) {
   return (
     <div>
       <h2>{profession}</h2>
